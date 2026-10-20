@@ -1,7 +1,10 @@
 # Axon break detection — FAST U-Net++ masks
 
 This folder repeats the **broken axon detection** from `results/`, but builds the axon mask with a
-pretrained deep-learning model instead of Frangi + Otsu. The layout mirrors `results/`: one subfolder
+pretrained deep-learning model instead of Frangi + Otsu. The **spot detection** results
+(`spot_detection_*.ipynb`, `csv/spot_counts_*.csv`, `figures/spot_count_comparison_*.png`) are copied
+here unchanged from `results/`, so that each dataset folder holds both analyses. Spotiflow does not
+use the axon mask. The copied notebooks write to this folder if re-run. The layout mirrors `results/`: one subfolder
 per dataset (`N1/`, `N2/`, `N3/`, `N4/`), each with its notebooks, `csv/` and `figures/`.
 
 ## Why a different mask
