@@ -1,8 +1,8 @@
 # Axon analysis — results
 
 This directory holds the per-dataset outputs (comparison plots + CSV tables) for the
-two analyses run on the CZI images in `N1/`, `N2/`, `N3/`. Each dataset has its own
-subfolder (`N1/`, `N2/`, `N3/`) containing the result notebooks and the files they produce.
+two analyses run on the CZI images in `N1/`, `N2/`, `N3/`, `N4/`. Each dataset has its own
+subfolder (`N1/`, `N2/`, `N3/`, `N4/`) containing the result notebooks and the files they produce.
 
 Every condition is one of three siRNA/treatment groups: **bmi**, **Ni**, **scr**.
 
@@ -53,13 +53,16 @@ count shown as a labeled point.
   only (raw max-projection, no background subtraction) — broken axon detection on N2
   still uses the background-subtraction preprocessing step, matching what worked in
   the source notebooks.
-- **N3** — not yet acquired. Placeholder notebooks are included with the expected
-  folder layout (mirroring N1); update the `directories` paths once the data lands and
-  re-run.
+- **N3** — 3-channel acquisition (AF647 tubulin, AF488, DAPI), 70.6 nm pixels,
+  18 images per condition. Both analyses use channel 0 (AF647, tubulin), as in N1/N2.
+  Broken axon detection uses the N1 pipeline (no preprocessing before Frangi). FAST U-Net++
+  break results are in `../results_with_Fast-Unet/N3/`.
+- **N4** — same acquisition as N3, but **only bmi and scr** (9 / 8 images, no Ni).
+  Same pipelines as N3. FAST U-Net++ break results are in `../results_with_Fast-Unet/N4/`.
 
 ## Files per dataset folder
 
-Each `N1/`, `N2/`, `N3/` folder contains:
+Each `N1/`, `N2/`, `N3/`, `N4/` folder contains:
 
 - `*.ipynb` — the notebook that runs the analysis for that dataset/variant (no inline
   image display; text/table output only).
