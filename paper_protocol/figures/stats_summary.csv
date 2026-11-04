@@ -1,0 +1,18 @@
+section,metric,comparison,n_bmi,n_scr,n_ni,mean_bmi,mean_scr,mean_ni,ratio,p,ratios,n_scr2,mean_scr2,median_bmi,median_scr,median_scr2,p_vs_scr2,n_somata,n_in_cluster
+Axon breaks,confirmed breaks per 100 µm,"Exp. 1 BMI1 vs SCR (per image, Mann-Whitney)",9.0,4.0,4.0,0.7491250019063451,0.42968674603395524,0.47750208808585787,1.7434212454092006,0.07552447552447553,,,,,,,,,
+Axon breaks,confirmed breaks per 100 µm,"Exp. 2 BMI1 vs SCR (per image, Mann-Whitney)",23.0,19.0,23.0,0.7461146614114722,0.27660625567482755,0.4004846609223573,2.697388963930696,6.854150243785982e-06,,,,,,,,,
+Axon breaks,confirmed breaks per 100 µm,"Exp. 3 BMI1 vs SCR (per image, Mann-Whitney)",18.0,18.0,18.0,1.5726714756600393,0.5258064820839335,0.6411667644371328,2.9909701178027635,0.0008442254358159093,,,,,,,,,
+Axon breaks,confirmed breaks per 100 µm,"Exp. 4 BMI1 vs SCR (per image, Mann-Whitney)",9.0,8.0,0.0,0.4327373900144309,0.0965247573604173,,4.48317511328847,0.0017184987080947876,,,,,,,,,
+Axon breaks,"confirmed breaks per 100 µm, BMI1/SCR ratio of experiment means",BMI1 vs SCR across N=4 experiments (one-sample t-test on log2 ratio),,,,,,,2.817967122206571,0.012837300084154379,Exp. 1:1.74;Exp. 2:2.70;Exp. 3:2.99;Exp. 4:4.48,,,,,,,,
+Puncta,"puncta per 1,000 µm²","Exp. 1 BMI1 vs SCR (per image, Mann-Whitney)",9.0,4.0,4.0,44.871553007650164,18.136045380241896,19.045603887153725,2.474164133738602,0.033566433566433566,,,,,,,,,
+Puncta,"puncta per 1,000 µm²","Exp. 2 BMI1 vs SCR (per image, Mann-Whitney)",23.0,19.0,23.0,33.20566824424366,14.574869961665014,21.88416941458725,2.278282299024388,0.0026366427475707677,,,,,,,,,
+Puncta,"puncta per 1,000 µm²","Exp. 3 BMI1 vs SCR (per image, Mann-Whitney)",18.0,18.0,18.0,61.86529090278056,23.55052160993924,25.482950626307467,2.6269180754226262,0.00022789861951546706,,,,,,,,,
+Puncta,"puncta per 1,000 µm²","Exp. 4 BMI1 vs SCR (per image, Mann-Whitney)",9.0,8.0,0.0,12.452070333681785,5.071477735508372,,2.4553140096618353,0.0037021801727684074,,,,,,,,,
+Puncta,"puncta per 1,000 µm², BMI1/SCR ratio of experiment means",BMI1 vs SCR across N=4 experiments (one-sample t-test on log2 ratio),,,,,,,2.4555422070438957,7.534283525884012e-05,Exp. 1:2.47;Exp. 2:2.28;Exp. 3:2.63;Exp. 4:2.46,,,,,,,,
+Morphology (2WPT CZI),dense_frac,"BMI1 vs SCR same mouse / vs SCR second mouse (per image, Mann-Whitney)",32.0,21.0,,0.3526925849964886,0.04275800962346986,,,0.00016319323300511662,,18.0,0.14343057153516528,0.37005793371339996,0.0,0.02105220082527095,0.023306547742029175,,
+Morphology (2WPT CZI),iso_branch_points_per_100um,"BMI1 vs SCR same mouse / vs SCR second mouse (per image, Mann-Whitney)",30.0,20.0,,9.477949849053093,7.007757177914549,,,0.01294530878955959,,17.0,8.197327828906399,9.479578981572391,6.408883452635135,6.860205160488447,0.2362112759898647,,
+Morphology (2WPT CZI),iso_diam_median_um,"BMI1 vs SCR same mouse / vs SCR second mouse (per image, Mann-Whitney)",30.0,21.0,,0.9074759747363602,0.7332885860867553,,,0.012502441108251744,,18.0,0.8904210423683043,0.8811119238661602,0.7216628209531307,0.8569291729152202,0.6018449674634234,,
+Morphology (2WPT CZI),iso_pct_branches_swollen,"BMI1 vs SCR same mouse / vs SCR second mouse (per image, Mann-Whitney)",28.0,21.0,,4.586059630527312,2.6133816064461644,,,0.6909285494580536,,17.0,4.466622768868509,2.278834229020256,3.076923076923077,3.0927835051546393,0.6631544268555443,,
+Morphology (2WPT CZI),cell bodies,ID06902 scr,,,,,,,,,,,,,,,,6.0,1.0
+Morphology (2WPT CZI),cell bodies,ID06902 bmi1,,,,,,,,,,,,,,,,41.0,35.0
+Morphology (2WPT CZI),cell bodies,ID06914 scr,,,,,,,,,,,,,,,,25.0,18.0
