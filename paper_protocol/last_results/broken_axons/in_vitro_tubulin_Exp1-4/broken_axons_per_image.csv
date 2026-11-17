@@ -1,0 +1,175 @@
+experiment,condition,image,confirmed_breaks_per_100um,confirmed_breaks,candidate_breaks,axon_length_um
+Exp. 1,SCR,New-01.czi,0.721,55,134,7632.0
+Exp. 1,SCR,New-02.czi,0.355,24,54,6757.0
+Exp. 1,SCR,New-03.czi,0.322,24,67,7461.0
+Exp. 1,SCR,New-04.czi,0.321,20,96,6226.0
+Exp. 1,NI,New-01.czi,0.329,24,92,7295.0
+Exp. 1,NI,New-02.czi,0.378,22,81,5825.0
+Exp. 1,NI,New-03.czi,0.838,77,263,9186.0
+Exp. 1,NI,New-04.czi,0.365,23,56,6299.0
+Exp. 1,BMI1,New-01.czi,0.453,42,104,9264.0
+Exp. 1,BMI1,New-02.czi,0.941,93,166,9879.0
+Exp. 1,BMI1,New-03.czi,0.704,71,202,10080.0
+Exp. 1,BMI1,New-04.czi,1.66,157,288,9457.0
+Exp. 1,BMI1,New-05.czi,0.742,75,142,10110.0
+Exp. 1,BMI1,New-06.czi,0.413,35,103,8478.0
+Exp. 1,BMI1,New-07.czi,0.355,19,36,5353.0
+Exp. 1,BMI1,New-08.czi,0.775,67,143,8641.0
+Exp. 1,BMI1,New-09.czi,0.698,49,107,7022.0
+Exp. 2,SCR,New-01.czi,0.477,21,72,4402.0
+Exp. 2,SCR,New-02.czi,0.533,20,48,3750.0
+Exp. 2,SCR,New-03.czi,0.216,8,40,3708.0
+Exp. 2,SCR,New-04.czi,0.392,17,105,4341.0
+Exp. 2,SCR,New-05.czi,0.166,4,20,2408.0
+Exp. 2,SCR,New-06.czi,0.156,6,29,3846.0
+Exp. 2,SCR,New-07.czi,0.091,4,29,4418.0
+Exp. 2,SCR,New-08.czi,0.124,4,120,3227.0
+Exp. 2,SCR,New-09.czi,0.377,5,45,1325.0
+Exp. 2,SCR,New-11.czi,0.129,2,2,1548.0
+Exp. 2,SCR,New-12.czi,0.0,0,4,1018.0
+Exp. 2,SCR,New-13.czi,0.412,5,15,1214.0
+Exp. 2,SCR,New-14.czi,0.161,2,13,1243.0
+Exp. 2,SCR,New-15.czi,0.153,2,27,1307.0
+Exp. 2,SCR,New-16.czi,0.139,2,5,1436.0
+Exp. 2,SCR,New-18.czi,0.298,15,73,5036.0
+Exp. 2,SCR,New-19.czi,0.606,30,102,4952.0
+Exp. 2,SCR,New-20.czi,0.55,24,112,4362.0
+Exp. 2,SCR,New-21.czi,0.276,13,50,4715.0
+Exp. 2,NI,New-01.czi,0.201,7,46,3481.0
+Exp. 2,NI,New-02.czi,0.103,4,66,3867.0
+Exp. 2,NI,New-03.czi,0.304,9,39,2956.0
+Exp. 2,NI,New-04.czi,0.284,10,37,3518.0
+Exp. 2,NI,New-05.czi,0.353,18,63,5100.0
+Exp. 2,NI,New-06.czi,0.454,25,114,5509.0
+Exp. 2,NI,New-07.czi,0.321,20,72,6234.0
+Exp. 2,NI,New-08.czi,0.466,23,132,4940.0
+Exp. 2,NI,New-09.czi,0.501,18,50,3593.0
+Exp. 2,NI,New-10.czi,0.409,27,58,6608.0
+Exp. 2,NI,New-11.czi,0.256,12,35,4679.0
+Exp. 2,NI,New-12.czi,0.419,20,59,4774.0
+Exp. 2,NI,New-13.czi,0.301,14,59,4648.0
+Exp. 2,NI,New-14.czi,0.609,34,82,5580.0
+Exp. 2,NI,New-15.czi,0.253,15,80,5923.0
+Exp. 2,NI,New-16.czi,0.62,37,92,5970.0
+Exp. 2,NI,New-17.czi,0.528,8,22,1515.0
+Exp. 2,NI,New-18.czi,0.329,5,41,1518.0
+Exp. 2,NI,New-19.czi,0.771,10,40,1297.0
+Exp. 2,NI,New-20.czi,0.079,1,9,1271.0
+Exp. 2,NI,New-21.czi,0.165,2,12,1212.0
+Exp. 2,NI,New-22.czi,0.476,7,22,1470.0
+Exp. 2,NI,New-23.czi,1.008,14,27,1389.0
+Exp. 2,BMI1,New-01.czi,0.694,31,90,4470.0
+Exp. 2,BMI1,New-02.czi,0.424,15,81,3542.0
+Exp. 2,BMI1,New-03.czi,0.293,10,74,3416.0
+Exp. 2,BMI1,New-05.czi,0.512,16,98,3127.0
+Exp. 2,BMI1,New-06.czi,0.492,21,45,4269.0
+Exp. 2,BMI1,New-07.czi,0.354,10,26,2824.0
+Exp. 2,BMI1,New-08.czi,0.856,44,105,5142.0
+Exp. 2,BMI1,New-09.czi,0.433,24,39,5548.0
+Exp. 2,BMI1,New-10.czi,0.809,51,67,6302.0
+Exp. 2,BMI1,New-11.czi,0.43,21,83,4880.0
+Exp. 2,BMI1,New-12.czi,0.612,36,97,5884.0
+Exp. 2,BMI1,New-13.czi,1.418,93,144,6557.0
+Exp. 2,BMI1,New-14.czi,1.376,72,137,5233.0
+Exp. 2,BMI1,New-15.czi,1.299,47,124,3618.0
+Exp. 2,BMI1,New-16.czi,1.199,38,68,3168.0
+Exp. 2,BMI1,New-17.czi,1.292,6,20,464.0
+Exp. 2,BMI1,New-18.czi,0.548,12,35,2191.0
+Exp. 2,BMI1,New-19.czi,0.758,15,38,1978.0
+Exp. 2,BMI1,New-20.czi,0.577,12,62,2081.0
+Exp. 2,BMI1,New-21.czi,0.484,9,43,1860.0
+Exp. 2,BMI1,New-22.czi,0.828,19,52,2294.0
+Exp. 2,BMI1,New-23.czi,0.905,20,45,2211.0
+Exp. 2,BMI1,New-24.czi,0.57,10,37,1754.0
+Exp. 2 (Airyscan),SCR,New-09-Airyscan Processing-01.czi,0.167,2,25,1195.0
+Exp. 2 (Airyscan),SCR,New-11-Airyscan Processing-02.czi,0.0,0,2,1490.0
+Exp. 2 (Airyscan),SCR,New-12-Airyscan Processing-03.czi,0.0,0,7,981.0
+Exp. 2 (Airyscan),SCR,New-13-Airyscan Processing-04.czi,0.088,1,3,1132.0
+Exp. 2 (Airyscan),SCR,New-15-Airyscan Processing-06.czi,0.162,2,11,1237.0
+Exp. 2 (Airyscan),SCR,New-16-Airyscan Processing-07.czi,0.072,1,3,1389.0
+Exp. 2 (Airyscan),NI,New-17-Airyscan Processing-11.czi,0.283,4,10,1412.0
+Exp. 2 (Airyscan),NI,New-18-Airyscan Processing-12.czi,0.528,7,30,1325.0
+Exp. 2 (Airyscan),NI,New-19-Airyscan Processing-13.czi,0.156,2,29,1280.0
+Exp. 2 (Airyscan),NI,New-20-Airyscan Processing-14.czi,0.082,1,7,1219.0
+Exp. 2 (Airyscan),NI,New-21-Airyscan Processing-15.czi,0.26,3,12,1155.0
+Exp. 2 (Airyscan),NI,New-22-Airyscan Processing-16.czi,0.435,6,13,1379.0
+Exp. 2 (Airyscan),NI,New-23-Airyscan Processing-17.czi,0.592,8,23,1352.0
+Exp. 2 (Airyscan),BMI1,New-17-Airyscan Processing-18.czi,0.226,1,17,442.0
+Exp. 2 (Airyscan),BMI1,New-18-Airyscan Processing-19.czi,0.321,7,21,2181.0
+Exp. 2 (Airyscan),BMI1,New-19-Airyscan Processing-20.czi,0.218,4,19,1833.0
+Exp. 2 (Airyscan),BMI1,New-20-Airyscan Processing-21.czi,0.549,11,43,2003.0
+Exp. 2 (Airyscan),BMI1,New-21-Airyscan Processing-22.czi,0.283,5,21,1765.0
+Exp. 2 (Airyscan),BMI1,New-22-Airyscan Processing-23.czi,0.451,10,40,2219.0
+Exp. 2 (Airyscan),BMI1,New-23-Airyscan Processing-24.czi,0.764,16,35,2095.0
+Exp. 2 (Airyscan),BMI1,New-24-Airyscan Processing-25.czi,0.414,7,25,1689.0
+Exp. 3,SCR,New-01.czi,1.233,128,264,10378.0
+Exp. 3,SCR,New-02.czi,1.115,104,195,9326.0
+Exp. 3,SCR,New-03.czi,1.091,86,228,7884.0
+Exp. 3,SCR,New-04.czi,1.159,85,213,7334.0
+Exp. 3,SCR,New-05.czi,0.971,100,196,10298.0
+Exp. 3,SCR,New-06.czi,1.07,105,241,9811.0
+Exp. 3,SCR,New-07.czi,0.293,5,13,1706.0
+Exp. 3,SCR,New-08.czi,0.263,4,9,1520.0
+Exp. 3,SCR,New-09.czi,0.187,6,18,3206.0
+Exp. 3,SCR,New-10.czi,0.229,9,33,3928.0
+Exp. 3,SCR,New-11.czi,0.454,27,56,5952.0
+Exp. 3,SCR,New-12.czi,0.256,12,21,4683.0
+Exp. 3,SCR,New-13.czi,0.101,4,12,3954.0
+Exp. 3,SCR,New-14.czi,0.033,1,5,2992.0
+Exp. 3,SCR,New-15.czi,0.203,7,15,3443.0
+Exp. 3,SCR,New-16.czi,0.129,3,12,2329.0
+Exp. 3,SCR,New-17.czi,0.117,2,8,1709.0
+Exp. 3,SCR,New-18.czi,0.559,30,64,5368.0
+Exp. 3,NI,New-01.czi,0.879,84,177,9552.0
+Exp. 3,NI,New-02.czi,0.941,96,183,10202.0
+Exp. 3,NI,New-03.czi,0.549,48,108,8741.0
+Exp. 3,NI,New-04.czi,0.654,61,138,9321.0
+Exp. 3,NI,New-05.czi,0.345,18,48,5218.0
+Exp. 3,NI,New-06.czi,0.484,35,76,7229.0
+Exp. 3,NI,New-07.czi,0.628,51,144,8127.0
+Exp. 3,NI,New-08.czi,0.704,54,120,7668.0
+Exp. 3,NI,New-09.czi,0.646,52,169,8045.0
+Exp. 3,NI,New-10.czi,0.68,52,172,7644.0
+Exp. 3,NI,New-11.czi,0.724,48,174,6628.0
+Exp. 3,NI,New-12.czi,0.515,46,106,8940.0
+Exp. 3,NI,New-13.czi,0.699,61,157,8732.0
+Exp. 3,NI,New-14.czi,0.503,34,109,6766.0
+Exp. 3,NI,New-15.czi,0.53,34,126,6413.0
+Exp. 3,NI,New-16.czi,0.629,44,98,6998.0
+Exp. 3,NI,New-17.czi,0.693,59,209,8513.0
+Exp. 3,NI,New-18.czi,0.738,73,161,9896.0
+Exp. 3,BMI1,New-01.czi,0.425,23,46,5412.0
+Exp. 3,BMI1,New-02.czi,0.262,8,18,3054.0
+Exp. 3,BMI1,New-03.czi,0.517,15,44,2903.0
+Exp. 3,BMI1,New-04.czi,0.443,15,41,3390.0
+Exp. 3,BMI1,New-05.czi,0.629,32,62,5091.0
+Exp. 3,BMI1,New-06.czi,0.748,46,85,6149.0
+Exp. 3,BMI1,New-07.czi,0.874,46,146,5263.0
+Exp. 3,BMI1,New-08.czi,1.764,97,259,5500.0
+Exp. 3,BMI1,New-09.czi,1.418,75,204,5288.0
+Exp. 3,BMI1,New-10.czi,1.677,60,155,3578.0
+Exp. 3,BMI1,New-11.czi,1.027,24,77,2337.0
+Exp. 3,BMI1,New-12.czi,1.523,82,225,5385.0
+Exp. 3,BMI1,New-13.czi,2.707,132,334,4876.0
+Exp. 3,BMI1,New-14.czi,2.999,163,334,5435.0
+Exp. 3,BMI1,New-15.czi,2.84,145,254,5105.0
+Exp. 3,BMI1,New-16.czi,2.491,124,225,4977.0
+Exp. 3,BMI1,New-17.czi,3.15,162,281,5143.0
+Exp. 3,BMI1,New-18.czi,2.815,135,231,4796.0
+Exp. 4,SCR,New-01.czi,0.087,1,24,1154.0
+Exp. 4,SCR,New-02.czi,0.143,1,31,701.0
+Exp. 4,SCR,New-03.czi,0.14,3,71,2136.0
+Exp. 4,SCR,New-04.czi,0.0,0,111,1471.0
+Exp. 4,SCR,New-05.czi,0.0,0,30,850.0
+Exp. 4,SCR,New-06.czi,0.322,2,16,621.0
+Exp. 4,SCR,New-07.czi,0.0,0,28,857.0
+Exp. 4,SCR,New-08.czi,0.08,1,24,1248.0
+Exp. 4,BMI1,New-01.czi,0.549,10,86,1821.0
+Exp. 4,BMI1,New-02.czi,0.474,9,50,1900.0
+Exp. 4,BMI1,New-03.czi,0.258,7,78,2711.0
+Exp. 4,BMI1,New-04.czi,0.528,8,52,1514.0
+Exp. 4,BMI1,New-05.czi,0.208,3,54,1439.0
+Exp. 4,BMI1,New-06.czi,0.485,9,98,1856.0
+Exp. 4,BMI1,New-07.czi,0.538,17,168,3160.0
+Exp. 4,BMI1,New-08.czi,0.571,5,27,875.0
+Exp. 4,BMI1,New-09.czi,0.283,4,46,1415.0

@@ -1,0 +1,23 @@
+condition,acquisition,image,confirmed_breaks_per_100um,confirmed_breaks,candidate_breaks,axon_length_um
+Condition 1,Regular confocal,New-01 2.czi,4.235,186,354,4392.0
+Condition 1,Regular confocal,New-01.czi,2.761,188,537,6809.0
+Condition 1,Regular confocal,New-02.czi,3.12,268,642,8589.0
+Condition 1,Regular confocal,New-03.czi,3.22,288,601,8943.0
+Condition 1,Regular confocal,New-04.czi,2.893,187,515,6464.0
+Condition 1,Regular confocal,New-05.czi,2.591,214,719,8260.0
+Condition 1,Regular confocal,New-06.czi,3.671,463,1117,12612.0
+Condition 1,Regular confocal,New-07.czi,1.696,46,150,2713.0
+Condition 1,Regular confocal,New-08.czi,2.497,59,165,2363.0
+Condition 1,Regular confocal,New-09.czi,3.189,51,95,1599.0
+Condition 1,Regular confocal,New-10.czi,3.633,87,168,2395.0
+Condition 1,Regular confocal,New-11.czi,5.413,86,146,1589.0
+Condition 1,Regular confocal,New-12.czi,4.709,181,276,3844.0
+Condition 2,Airyscan,New-01-Airyscan Processing-01.czi,3.309,55,121,1662.0
+Condition 2,Airyscan,New-03-Airyscan Processing-02.czi,3.53,99,231,2804.0
+Condition 2,Airyscan,New-04-Airyscan Processing-03.czi,2.492,56,126,2247.0
+Condition 2,Airyscan,New-05-Airyscan Processing-04.czi,2.449,41,102,1674.0
+Condition 2,Airyscan,New-06-Airyscan Processing-05.czi,3.126,9,20,288.0
+Condition 2,Airyscan,New-08-Airyscan Processing-06.czi,2.258,8,31,354.0
+Condition 2,Airyscan,New-09-Airyscan Processing-07.czi,1.582,2,5,126.0
+Condition 2,Airyscan,New-10-Airyscan Processing-08.czi,2.32,113,377,4870.0
+Condition 2,Airyscan,New-12-Airyscan Processing-09.czi,1.22,46,250,3771.0

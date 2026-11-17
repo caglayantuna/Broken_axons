@@ -1,0 +1,37 @@
+projection,regime,measure,median_SCR_mouse1,median_BMI1_mouse1,median_SCR_mouse2,n_images_SCR_mouse1,n_images_BMI1,n_images_SCR_mouse2,ratio_BMI1_over_SCR_mouse1,P_BMI1_vs_SCR_mouse1,P_BMI1_vs_all_SCR,P_SCR_mouse1_vs_SCR_mouse2
+full stack,Isolated,branch points per 100 µm,6.0791,6.0959,7.6893,13.0,9.0,7.0,1.0028,0.5932,0.1643,0.0557
+full stack,Isolated,"diameter, median (µm)",0.6258,0.7403,0.7738,13.0,9.0,7.0,1.183,0.1608,0.3108,0.2106
+full stack,Isolated,"diameter, 90th pct (µm)",1.4996,1.5567,1.5298,13.0,9.0,7.0,1.0381,0.2563,0.358,0.5356
+full stack,Isolated,diameter CV along branch,0.2974,0.3271,0.3193,13.0,9.0,7.0,1.0997,0.1817,0.1791,1.0
+full stack,Isolated,"branch length, median (µm)",7.2242,6.8113,7.4184,13.0,9.0,7.0,0.9428,0.5932,0.5557,0.8168
+full stack,Isolated,"tortuosity, median",1.1347,1.1231,1.1244,13.0,9.0,7.0,0.9898,0.3853,0.4943,0.3114
+full stack,Isolated,% branches with >= 1 swelling,4.5455,4.1667,2.0408,13.0,9.0,7.0,0.9167,0.7873,0.9048,0.2636
+full stack,Isolated,swellings per 100 µm,1.1362,1.0535,0.5171,13.0,8.0,6.0,0.9272,0.9709,0.8095,0.2343
+full stack,Isolated,extension length in the image (µm),314.2406,229.6618,312.1226,13.0,9.0,7.0,0.7308,0.1246,0.0942,1.0
+full stack,Dense,branch points per 100 µm,12.487,15.72,14.8439,2.0,5.0,2.0,1.2589,0.381,0.4127,0.6667
+full stack,Dense,"diameter, median (µm)",1.188,0.9934,0.9971,9.0,7.0,5.0,0.8362,0.4079,0.488,0.5185
+full stack,Dense,"diameter, 90th pct (µm)",1.9063,2.0386,2.3791,9.0,7.0,5.0,1.0694,0.7577,0.799,0.6993
+full stack,Dense,diameter CV along branch,0.2818,0.3489,0.4426,6.0,5.0,5.0,1.2382,0.0823,0.8269,0.0823
+full stack,Dense,"branch length, median (µm)",4.4789,4.8702,5.8546,6.0,5.0,5.0,1.0874,0.1255,0.6612,0.0519
+full stack,Dense,"tortuosity, median",1.1242,1.1514,1.1201,6.0,5.0,5.0,1.0241,0.329,0.1804,0.9307
+full stack,Dense,% branches with >= 1 swelling,0.0,3.4483,0.0,3.0,5.0,4.0,inf,1.0,0.2451,0.3865
+full stack,Dense,swellings per 100 µm,0.0,0.4828,,1.0,4.0,0.0,inf,,,
+full stack,Dense,extension length in the image (µm),18.2148,184.4778,38.6182,13.0,9.0,7.0,10.1279,0.1603,0.1568,0.3827
+3 um slab,Isolated,branch points per 100 µm,6.0824,7.3348,6.1727,12.0,9.0,6.0,1.2059,0.0549,0.0448,0.8916
+3 um slab,Isolated,"diameter, median (µm)",0.7307,0.9073,0.8171,13.0,9.0,7.0,1.2416,0.0714,0.1791,0.1146
+3 um slab,Isolated,"diameter, 90th pct (µm)",1.615,1.7498,1.7803,13.0,9.0,7.0,1.0834,0.109,0.2481,0.2749
+3 um slab,Isolated,diameter CV along branch,0.3228,0.3113,0.3228,13.0,9.0,7.0,0.9645,0.8938,0.9812,0.8773
+3 um slab,Isolated,"branch length, median (µm)",6.6534,6.0411,6.3962,13.0,9.0,7.0,0.908,0.7385,0.5399,0.9385
+3 um slab,Isolated,"tortuosity, median",1.1391,1.1253,1.1307,13.0,9.0,7.0,0.9879,0.109,0.1505,0.3929
+3 um slab,Isolated,% branches with >= 1 swelling,0.0,0.0,0.0,13.0,9.0,6.0,,0.8769,0.8184,0.8792
+3 um slab,Isolated,swellings per 100 µm,0.2518,0.0,0.0,10.0,6.0,6.0,0.0,0.5109,0.5908,0.7651
+3 um slab,Isolated,extension length in the image (µm),211.5882,162.2388,202.9044,13.0,9.0,7.0,0.7668,0.2424,0.2996,0.3114
+3 um slab,Dense,branch points per 100 µm,16.6539,13.105,17.9801,2.0,5.0,1.0,0.7869,0.8571,0.7857,
+3 um slab,Dense,"diameter, median (µm)",0.8098,1.1064,1.3005,6.0,6.0,4.0,1.3662,0.2403,0.7128,0.1714
+3 um slab,Dense,"diameter, 90th pct (µm)",1.9259,2.1028,3.1687,6.0,6.0,4.0,1.0918,0.4848,0.7925,0.0381
+3 um slab,Dense,diameter CV along branch,0.3643,0.3288,0.3011,3.0,6.0,3.0,0.9027,0.5476,0.9372,0.7
+3 um slab,Dense,"branch length, median (µm)",4.132,5.7974,5.4128,3.0,6.0,3.0,1.403,0.0952,0.2403,0.4
+3 um slab,Dense,"tortuosity, median",1.1411,1.1326,1.1272,3.0,6.0,3.0,0.9925,0.7143,0.9372,1.0
+3 um slab,Dense,% branches with >= 1 swelling,2.1739,0.0,0.0,2.0,5.0,2.0,0.0,0.8091,1.0,0.6171
+3 um slab,Dense,swellings per 100 µm,,0.0,,0.0,2.0,0.0,,,,
+3 um slab,Dense,extension length in the image (µm),0.8472,81.3312,20.4034,13.0,9.0,7.0,96.0,0.0647,0.0727,0.2246

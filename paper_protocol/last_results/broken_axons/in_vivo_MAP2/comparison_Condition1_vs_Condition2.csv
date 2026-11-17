@@ -1,0 +1,4 @@
+measure,mean_Condition1,mean_Condition2,ratio_Condition2_over_Condition1,P_Mann_Whitney,mean_Condition2_blurred_to_confocal,ratio_when_Condition2_blurred,P_when_Condition2_blurred
+Confirmed breaks per 100 µm (paper readout),3.3561,2.4763,0.7379,0.0326,2.3849,0.7106,0.0528
+All candidate breaks per 100 µm,7.5008,6.8045,0.9072,0.2853,6.2964,0.8394,0.0451
+% of candidate breaks confirmed,44.7015,36.9036,0.8256,0.2045,37.5951,0.841,0.3165

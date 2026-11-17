@@ -1,0 +1,37 @@
+acquisition,regime,measure,median_SCR_mouse1,median_BMI1_mouse1,median_SCR_mouse2,n_images_SCR_mouse1,n_images_BMI1,n_images_SCR_mouse2,ratio_BMI1_over_SCR_mouse1,P_BMI1_vs_SCR_mouse1,P_BMI1_vs_all_SCR,P_SCR_mouse1_vs_SCR_mouse2
+Regular confocal,Isolated,branch points per 100 µm,6.4089,9.4796,6.8602,20.0,30.0,17.0,1.4791,0.0129,0.0236,0.5321
+Regular confocal,Isolated,"diameter, median (µm)",0.7217,0.8811,0.8569,21.0,30.0,18.0,1.2209,0.0125,0.0598,0.0572
+Regular confocal,Isolated,"diameter, 90th pct (µm)",1.6184,1.8572,1.7702,21.0,30.0,18.0,1.1475,0.094,0.1585,0.2312
+Regular confocal,Isolated,diameter CV along branch,0.3044,0.3176,0.3061,21.0,29.0,17.0,1.0431,0.0769,0.029,0.5184
+Regular confocal,Isolated,"branch length, median (µm)",6.3862,6.0967,6.9811,21.0,29.0,17.0,0.9547,0.271,0.0841,0.3182
+Regular confocal,Isolated,"tortuosity, median",1.1473,1.129,1.137,21.0,29.0,17.0,0.984,0.1404,0.333,0.1002
+Regular confocal,Isolated,% branches with >= 1 swelling,3.0769,2.2788,3.0928,21.0,28.0,17.0,0.7406,0.6909,0.9947,0.4791
+Regular confocal,Isolated,swellings per 100 µm,1.1598,1.1532,0.7268,19.0,24.0,16.0,0.9943,0.4797,0.3015,1.0
+Regular confocal,Isolated,extension length in the image (µm),240.8872,175.7234,224.6139,21.0,33.0,18.0,0.7295,0.1361,0.1512,0.622
+Regular confocal,Dense,branch points per 100 µm,14.8447,16.5266,19.5195,4.0,19.0,5.0,1.1133,0.4095,1.0,0.1905
+Regular confocal,Dense,"diameter, median (µm)",1.021,1.2104,1.2773,6.0,24.0,9.0,1.1855,0.4316,0.6755,0.2721
+Regular confocal,Dense,"diameter, 90th pct (µm)",2.0908,2.4751,3.0724,6.0,24.0,9.0,1.1838,0.1426,0.6339,0.0879
+Regular confocal,Dense,diameter CV along branch,0.2996,0.3498,0.3394,5.0,21.0,7.0,1.1675,0.2784,0.3998,0.4318
+Regular confocal,Dense,"branch length, median (µm)",3.6984,4.8773,4.608,5.0,21.0,7.0,1.3188,0.0787,0.0286,0.3434
+Regular confocal,Dense,"tortuosity, median",1.1337,1.142,1.1384,5.0,21.0,7.0,1.0073,0.4469,0.1967,1.0
+Regular confocal,Dense,% branches with >= 1 swelling,0.0,0.0,0.0,5.0,19.0,5.0,,0.0721,0.0696,0.1797
+Regular confocal,Dense,swellings per 100 µm,,0.4369,0.5634,0.0,12.0,2.0,,,1.0,
+Regular confocal,Dense,extension length in the image (µm),0.0,99.6872,6.354,21.0,33.0,18.0,inf,0.0008,0.0011,0.203
+Airyscan,Isolated,branch points per 100 µm,7.0367,9.5576,7.9098,18.0,23.0,12.0,1.3582,0.0679,0.0802,0.5393
+Airyscan,Isolated,"diameter, median (µm)",0.7639,0.9275,1.0527,19.0,25.0,13.0,1.2141,0.0215,0.4449,0.0006
+Airyscan,Isolated,"diameter, 90th pct (µm)",1.7964,2.2104,2.2763,19.0,25.0,13.0,1.2304,0.052,0.3721,0.0057
+Airyscan,Isolated,diameter CV along branch,0.3457,0.3428,0.2993,19.0,24.0,13.0,0.9917,0.9902,0.2174,0.0914
+Airyscan,Isolated,"branch length, median (µm)",6.2258,5.9111,6.668,19.0,24.0,13.0,0.9495,0.7046,0.4714,0.4204
+Airyscan,Isolated,"tortuosity, median",1.1307,1.1261,1.1359,19.0,24.0,13.0,0.9959,0.1992,0.1569,0.7589
+Airyscan,Isolated,% branches with >= 1 swelling,2.0254,0.0,0.0,18.0,22.0,12.0,0.0,0.3961,0.5411,0.4831
+Airyscan,Isolated,swellings per 100 µm,0.747,0.0,0.1968,15.0,17.0,8.0,0.0,0.661,0.9769,0.2128
+Airyscan,Isolated,extension length in the image (µm),226.3436,144.0593,126.3034,19.0,26.0,13.0,0.6365,0.1209,0.3442,0.2343
+Airyscan,Dense,branch points per 100 µm,14.679,17.2566,16.2701,2.0,14.0,2.0,1.1756,0.3333,0.3275,1.0
+Airyscan,Dense,"diameter, median (µm)",0.9989,1.2501,1.3786,5.0,17.0,5.0,1.2515,0.0063,0.2586,0.0952
+Airyscan,Dense,"diameter, 90th pct (µm)",1.8591,2.4595,2.6146,5.0,17.0,5.0,1.323,0.0387,0.94,0.0556
+Airyscan,Dense,diameter CV along branch,0.3277,0.3406,0.3186,4.0,16.0,5.0,1.0395,0.8198,0.515,0.7302
+Airyscan,Dense,"branch length, median (µm)",5.3049,4.6791,4.9621,4.0,16.0,5.0,0.882,0.6167,0.7989,0.5556
+Airyscan,Dense,"tortuosity, median",1.1528,1.1221,1.1092,4.0,16.0,5.0,0.9734,0.3352,0.9774,0.2857
+Airyscan,Dense,% branches with >= 1 swelling,0.0,0.0,1.0417,3.0,15.0,2.0,,0.8878,0.9184,1.0
+Airyscan,Dense,swellings per 100 µm,,0.0,0.9447,0.0,5.0,1.0,,,,
+Airyscan,Dense,extension length in the image (µm),0.0,57.0095,0.0,19.0,26.0,13.0,inf,0.0059,0.005,0.5749
